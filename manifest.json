@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "By @tuonghoa2k7 （Hoa相樺） ",
+    "name": "HoaMinecraftSkin",
+    "uuid": "bb6cf55a-ed4e-419c-b9bb-e71cae6f783a",
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": ";-;",
+      "type": "skin_pack",
+      "uuid": "36f612f2-3660-496e-acda-747ebc2bcd16",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}

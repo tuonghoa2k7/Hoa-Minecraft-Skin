@@ -1,0 +1,12 @@
+{
+  "serialize_name": "HoaMinecraftSkin",
+  "localization_name": "HoaMinecraftSkin",
+  "skins": [
+    {
+      "localization_name": "my_skin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "my_skin.png",
+      "type": "free"
+    }
+  ]
+}
